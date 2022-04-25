@@ -1,0 +1,3 @@
+locators,path
+xpath1,input[placeholder='Search AJIO']
+xpath2,span[class='ic-search']

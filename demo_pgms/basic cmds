@@ -1,0 +1,8 @@
+#driver.maximize_window()
+# c#urrent_title=driver.title
+# print(current_title)
+#
+# url=current_url
+# print(url)
+
+# driver.close()
