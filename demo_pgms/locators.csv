@@ -1,0 +1,5 @@
+locators,paths
+path1,input[placeholder='Search AJIO']
+path2,span[class='ic-search]
+path3,//div[@class='filter-dropdown']/..//select
+path4,//div[@class='contentHolder']
